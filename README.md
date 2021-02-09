@@ -1,3 +1,8 @@
+#### Welcome to My Portfolio
+
+### Navigation
+* Click here to view portfolio page: https://telacaul.github.io/caul-professional-portfolio/
+
 #### User Story
 * AS AN employer
 * I WANT to view a potential employee's deployed portfolio of work samples
