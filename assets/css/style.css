@@ -1,5 +1,73 @@
+/* All page styling*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Link style*/
+a {
+    text-decoration: none;
+}
+
+/* Header style */
+header {
+    padding: 35px 35px 20px 0px;
+    background-color:rgb(129, 137, 255);
+    display: flex;
+    justify-content: space-between;
+}
+
+#title {
+    color:white;
+}
+
+#logo {
+    border-radius: 50%;
+    width: 100x;
+    height: 100px;
+}
+
+/* Jumbotron style */
+
+/* Main section style */
 #myimage {
     border-radius: 50%;
-    width: 300px;
-    height: 400px;
+    width: 200px;
+    height: 275px;
 }
+
+/* Projects style */
+
+.screenshot {
+    height: 125px;
+    width: 200px;
+    opacity: 0.4;
+    transition: 0.5s;
+}
+
+.screenshot:hover {
+    opacity: 1;
+}
+
+/* Contact me style */
+.contact {
+    align-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 18px;
+}
+
+/* Footer style */
+
+#eevee {
+    border-radius: 50%;
+    width: 100x;
+    height: 150px;
+}
+
+
+
+
+
+
+
