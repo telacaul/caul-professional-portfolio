@@ -1,4 +1,8 @@
 #### Welcome to My Portfolio
+This portfolio is designed to be aesthetically pleasing, easy to navigate and scaffolded for addition of future projects. You will find name, recent photo, projects and contact information along with a PDF of a current resume. Each link in the navigation scrolls to the corresponding section. In the projects section, each image links to the project website or application and includes a brief description of the project name and languages used. This website is also formatted to be responsive to various screens and devices, adapting to the user viewpoint.
+
+### Screenshot
+![Final Portfolio](./assets/images/finalproject.jpg)
 
 ### Navigation
 * Click here to view portfolio page: https://telacaul.github.io/caul-professional-portfolio/
